@@ -1,2 +1,2 @@
 # Marauders-Map
-Women Safety application
+Women Safety application for hackathon
